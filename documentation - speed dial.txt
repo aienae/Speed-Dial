@@ -1,0 +1,7 @@
+Documentation for Speedometer Demo:
+
+In this demo you will see the speed dial displaying the speed of the bouncing ball in km/h
+just press play to see this happen. The speed will begin slow down as the ball looses momentum
+coming to a stop.
+
+Thank you
